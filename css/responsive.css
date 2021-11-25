@@ -1,0 +1,319 @@
+@media only screen and (max-width: 1070px){
+
+    .demo-1 .bg-5 h2, .demo-1 .bg-4 h2 {
+        font-size: 24px;
+        line-height: 35px;
+    }
+    #works .nav-tabs>li>a {
+        font-size: 20px;
+        font-weight: 300;
+    }
+    #works .nav>li>a {
+        padding: 10px 15px;
+    }
+}
+@media only screen and (max-width: 1000px){
+
+    .demo-1 .bg-5 h2, .demo-1 .bg-4 h2 {
+        font-size: 24px;
+        line-height: 35px;
+    }
+}
+
+@media only screen and (max-width: 991px){
+    #tab-1 .tab-content-img {
+        margin-bottom: 40px;
+    }
+    #tab-2 .tab-content-img {
+        margin-top: 40px;
+    }
+}
+
+@media only screen and (max-width: 926px){
+    #bg-logo{
+        background: url("../img/logo-min.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 43px;
+        bottom: 95%;
+    }
+
+}
+
+@media only screen and (max-width: 797px){
+
+    .pretty .gall a:hover .img-responsive {
+        opacity: 1;
+    }
+
+    #navigation-main {
+        margin-top: 20px;
+    }
+    .main-btn {
+        right: 10%;
+    }
+    #home h3{
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .demo-1 .bg-1 h2 {
+        bottom: 72%;
+    }
+    .demo-1 .bg-1 .blockquote {
+        bottom: 76%;
+    }
+}
+
+@media only screen and (max-width: 770px){
+    .demo-1 .bg-3 .blockquote {
+        margin: 0 0 -270px 0;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    .no-display{
+        display: none;
+    }
+    #contact-main {
+        height: 801px;
+    }
+    .contakt-block {
+        width: 100%;
+        margin-left: 0;
+        right: 0;
+    }
+}
+
+@media only screen and (max-width: 660px) {
+
+    #stock img {
+        max-width: 100%;
+    }
+
+    .demo-1 .deco {
+        width: 130px;
+        height: 130px;
+        margin-left: -65px;
+        margin-bottom: 50px;
+    }
+
+    .demo-1 [data-icon]:after {
+        width: 110px;
+        height: 110px;
+        line-height: 110px;
+        font-size: 40px;
+        margin: -55px 0 0 -55px;
+    }
+
+    .demo-1 .sl-slide .blockquote {
+        margin-bottom: -120px;
+    }
+
+    .demo-1 .sl-slide h2 {
+        line-height: 22px;
+        font-size: 18px;
+        margin-bottom: -40px;
+        letter-spacing: 4px;
+    }
+
+    .demo-1 .sl-slide .blockquote p:before {
+        line-height: 10px;
+        width: 40px;
+        height: 40px;
+        font-size: 120px;
+        left: -45px;
+    }
+
+    .demo-2 .sl-slider-wrapper {
+        height: 500px;
+    }
+
+    .demo-2 .sl-slider h2 {
+        font-size: 36px;
+    }
+
+    .demo-2 .sl-slider .blockquote {
+        font-size: 16px;
+    }
+
+    .demo-1 .bg-4 h2 {
+        bottom: 55%;
+    }
+
+    .demo-1 .bg-5 h2 {
+        bottom: 40%;
+        right: 25%;
+        font-size: 16px;
+    }
+
+    .demo-1 .bg-4 .blockquote {
+        bottom: 45%;
+    }
+
+    .demo-1 .bg-5 .blockquote {
+        bottom: 40%;
+        right: 25%;
+    }
+
+}
+
+@media only screen and (max-width: 654px) {
+    .margin-right-btn {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .margin-left-btn {
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+}
+
+@media only screen and (max-width: 643px){
+    .demo-1 .bg-1 h2 {
+        bottom: 68%;
+    }
+
+}
+
+@media only screen and (max-width: 608px){
+    nav#menu span.fa.fa-bars {
+        left: 60px;
+    }
+    .header-text.btn {
+        height: auto;
+        white-space: inherit;
+    }
+    .hover-bg .hover-text {
+        padding: 15% 0;
+    }
+    .nav-tabs > li > a {
+        border-radius: 2px 2px 0 0;
+        font-size: 12px;
+    }
+
+    .nav > li > a {
+        padding: 5px;
+    }
+}
+
+@media only screen and (max-width: 513px){
+    h3 {
+        font-size: 18px;
+    }
+    .demo-1 .bg-1 .blockquote {
+        width: 63%;
+        left: 18%;
+        bottom: 75%;
+    }
+
+    .demo-1 .bg-3 .blockquote {
+        line-height: 0;
+        margin-bottom: -340px;
+    }
+
+    .demo-1 .bg-3 .blockquote h2 {
+        margin-bottom: 10px;
+    }
+
+    #home h3 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .demo-1 .bg-1 h2 {
+        bottom: 70%;
+    }
+    #bg-logo {
+        bottom: 100%;
+    }
+
+    .demo-1 .bg-2 .blockquote {
+        bottom: 80%;
+    }
+}
+
+@media only screen and (max-width: 460px){
+
+    #home h3{
+        font-size: 16px;
+    }
+
+    #works h3 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    #works .tab-content .tab-content {
+        padding-top: 0;
+    }
+
+    #works .nav>li>a {
+        padding: 5px 5px;
+        font-size: 12px;
+    }
+
+    /*.demo-1 .bg-4, .demo-1 .bg-5{*/
+        /*display: none !important;*/
+    /*}*/
+
+    /*.display_none {*/
+        /*display: none !important;*/
+    /*}*/
+
+    nav#menu span.fa.fa-bars {
+        left: 30px;
+    }
+    .content {
+        padding-top: 30%;
+    }
+    .hover-bg .hover-text {
+        padding: 20% 0;
+    }
+    #overview-video .overlay {
+        padding: 30% 0;
+    }
+
+}
+@media only screen and (max-width: 360px){
+    h1 {
+        font-size: 36px;
+    }
+    h2 {
+        font-size: 18px;
+    }
+    h3 {
+        font-size: 16px;
+    }
+    .hover-bg .hover-text {
+        padding: 25% 0px;
+    }
+    .pull-left, .pull-right {
+        float: none !important;
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 335px){
+
+    #home h2 {
+        font-size: 14px;
+    }
+    #home h3{
+        line-height: 18px;
+    }
+    h1 {
+        font-size: 24px;
+    }
+    h2{
+        font-size: 16px;
+    }
+    h3{
+        font-size: 14px;
+    }
+    .visible-text p.discript{
+        font-size: 12px;
+    }
+    .hover-bg .hover-text {
+        padding: 30% 0px;
+    }
+}
